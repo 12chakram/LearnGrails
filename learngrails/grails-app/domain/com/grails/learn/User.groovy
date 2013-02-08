@@ -12,7 +12,7 @@ class User {
 		userName column:"USER_NAME"
 		password column:"PASSWORD"
 		
-	                                version false
+	         version false
 	}
 	
     static constraints = {
