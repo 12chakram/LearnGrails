@@ -16,5 +16,6 @@ class User {
 	}
 	
     static constraints = {
+		userName(blank:false, nullable:false)
     }
 }
