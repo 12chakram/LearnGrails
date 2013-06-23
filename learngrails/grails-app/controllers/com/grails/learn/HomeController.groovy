@@ -19,7 +19,7 @@ class HomeController {
 			
 			redirect(controller:"user",action:"index")
 			//else
-		}
+		}//
    
 	}//getUser
    def index() { }
